@@ -1,2 +1,2 @@
 # SQLiteDB-Test
-A simple Android application to implement SQLCRUD Operations on SqLite Database.
+A simple Android application to implement SQL CRUD Operations on SqLite Database.
